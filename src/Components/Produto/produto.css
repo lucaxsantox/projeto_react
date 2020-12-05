@@ -1,0 +1,25 @@
+.figure-img {
+    width: 150px;
+    height: 150px;
+}
+
+.figure-img:hover {
+    width: 200px;
+} 
+.figure {
+    margin: 0 1rem;
+}
+
+
+.preco_inicial {
+    font-size: smaller; text-decoration: line-through;
+}
+
+.preco_final {
+    font-size: large; color: red; font-weight: bolder; line-height: 1%;
+}
+
+h4 {
+    color:red;
+}
+
